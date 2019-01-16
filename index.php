@@ -6,13 +6,13 @@
  * Time: 03:11
  */
 
-require_once 'src/GildedRose.php';
-require_once 'src/BaseItem.php';
-require_once 'src/Item.php';
-require_once 'src/RareItem.php';
-require_once 'src/LegendaryItem.php';
-require_once 'src/ConcertTicketItem.php';
-require_once 'src/ConjuredItem.php';
+require_once __DIR__ . 'src/GildedRose.php';
+require_once __DIR__ . 'src/BaseItem.php';
+require_once __DIR__ . 'src/Item.php';
+require_once __DIR__ . 'src/RareItem.php';
+require_once __DIR__ . 'src/LegendaryItem.php';
+require_once __DIR__ . 'src/ConcertTicketItem.php';
+require_once __DIR__ . 'src/ConjuredItem.php';
 
 echo "OMGHAI!\n";
 
